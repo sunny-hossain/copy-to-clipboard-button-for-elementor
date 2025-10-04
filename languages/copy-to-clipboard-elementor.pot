@@ -1,0 +1,178 @@
+# COPY TO CLIPBOARD FOR ELEMENTOR
+# POT File
+# Copyright (C) 2025
+# This file is distributed under the same license as the plugin.
+# Template: copy-to-clipboard-elementor
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Copy to Clipboard for Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sunnyhossain.com/\n"
+"POT-Creation-Date: 2025-10-05 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: copy-to-clipboard-elementor.php:12
+msgid "Copy to Clipboard for Elementor"
+msgstr ""
+
+#: copy-to-clipboard-elementor.php:13
+msgid "Elementor widget to add a copy to clipboard button."
+msgstr ""
+
+#: includes/class-clipboard.php:13
+msgid "Clipboard"
+msgstr ""
+
+#: includes/class-clipboard.php:38
+msgid "Content"
+msgstr ""
+
+#: includes/class-clipboard.php:46
+msgid "Text"
+msgstr ""
+
+#: includes/class-clipboard.php:48
+msgid "Click here"
+msgstr ""
+
+#: includes/class-clipboard.php:58
+msgid "Show clipboard text"
+msgstr ""
+
+#: includes/class-clipboard.php:60
+msgid "Show"
+msgstr ""
+
+#: includes/class-clipboard.php:61
+msgid "Hide"
+msgstr ""
+
+#: includes/class-clipboard.php:64
+msgid "Toggle to show or hide the clipboard text area."
+msgstr ""
+
+#: includes/class-clipboard.php:71
+msgid "Clipboard Text"
+msgstr ""
+
+#: includes/class-clipboard.php:73
+msgid "Your text here"
+msgstr ""
+
+#: includes/class-clipboard.php:78
+msgid "Enter the text or content you want users to copy when they click the button."
+msgstr ""
+
+#: includes/class-clipboard.php:94
+msgid "Additional Content"
+msgstr ""
+
+#: includes/class-clipboard.php:102
+msgid "Text"
+msgstr ""
+
+#: includes/class-clipboard.php:104
+msgid "Copied!"
+msgstr ""
+
+#: includes/class-clipboard.php:108
+msgid "This text appears after successfully copying the link and temporarily changes the button text."
+msgstr ""
+
+#: includes/class-clipboard.php:115
+msgid "Background color"
+msgstr ""
+
+#: includes/class-clipboard.php:118
+msgid "This color appears after successfully copying the link and temporarily changes the button background color. Default: #008000"
+msgstr ""
+
+#: includes/class-clipboard.php:125
+msgid "Time"
+msgstr ""
+
+#: includes/class-clipboard.php:127
+msgid "3000"
+msgstr ""
+
+#: includes/class-clipboard.php:128
+msgid "After a specified time, the button resets to its default text and color. Default delay: 3 seconds (1 second = 1000 milliseconds)."
+msgstr ""
+
+#: includes/class-clipboard.php:143
+msgid "Box"
+msgstr ""
+
+#: includes/class-clipboard.php:151
+msgid "Padding"
+msgstr ""
+
+#: includes/class-clipboard.php:179
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-clipboard.php:206
+msgid "Text"
+msgstr ""
+
+#: includes/class-clipboard.php:214
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-clipboard.php:234
+msgid "Alignment"
+msgstr ""
+
+#: includes/class-clipboard.php:238
+msgid "Left"
+msgstr ""
+
+#: includes/class-clipboard.php:242
+msgid "Center"
+msgstr ""
+
+#: includes/class-clipboard.php:246
+msgid "Right"
+msgstr ""
+
+#: includes/class-clipboard.php:267
+msgid "Button"
+msgstr ""
+
+#: includes/class-clipboard.php:275
+msgid "Position"
+msgstr ""
+
+#: includes/class-clipboard.php:312
+msgid "Normal"
+msgstr ""
+
+#: includes/class-clipboard.php:319
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-clipboard.php:358
+msgid "Hover"
+msgstr ""
+
+#: includes/class-clipboard.php:365
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-clipboard.php:393
+msgid "Border Color"
+msgstr ""
+
+#: includes/class-clipboard.php:425
+msgid "Border Radius"
+msgstr ""
+
+#: includes/class-clipboard.php:445
+msgid "Padding"
+msgstr ""
