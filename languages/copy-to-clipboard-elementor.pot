@@ -2,11 +2,11 @@
 # POT File
 # Copyright (C) 2025
 # This file is distributed under the same license as the plugin.
-# Template: copy-to-clipboard-elementor
+# Template: copy-to-clipboard-button-for-elementor
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Copy to Clipboard for Elementor 1.0.0\n"
+"Project-Id-Version: Copy to Clipboard Button for Elementor 1.0.0\n"
 "Report-Msgid-Bugs-To: https://sunnyhossain.com/\n"
 "POT-Creation-Date: 2025-10-05 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: copy-to-clipboard-elementor.php:12
-msgid "Copy to Clipboard for Elementor"
+#: copy-to-clipboard-button-for-elementor.php:03
+msgid "Copy to Clipboard Button for Elementor"
 msgstr ""
 
-#: copy-to-clipboard-elementor.php:13
+#: copy-to-clipboard-button-for-elementor.php:07
 msgid "Elementor widget to add a copy to clipboard button."
 msgstr ""
 
@@ -29,150 +29,150 @@ msgstr ""
 msgid "Clipboard"
 msgstr ""
 
-#: includes/class-clipboard.php:38
+#: includes/class-clipboard.php:42
 msgid "Content"
 msgstr ""
 
-#: includes/class-clipboard.php:46
+#: includes/class-clipboard.php:50
 msgid "Text"
 msgstr ""
 
-#: includes/class-clipboard.php:48
+#: includes/class-clipboard.php:52
 msgid "Click here"
 msgstr ""
 
-#: includes/class-clipboard.php:58
+#: includes/class-clipboard.php:62
 msgid "Show clipboard text"
 msgstr ""
 
-#: includes/class-clipboard.php:60
+#: includes/class-clipboard.php:64
 msgid "Show"
 msgstr ""
 
-#: includes/class-clipboard.php:61
+#: includes/class-clipboard.php:65
 msgid "Hide"
 msgstr ""
 
-#: includes/class-clipboard.php:64
+#: includes/class-clipboard.php:68
 msgid "Toggle to show or hide the clipboard text area."
 msgstr ""
 
-#: includes/class-clipboard.php:71
+#: includes/class-clipboard.php:75
 msgid "Clipboard Text"
 msgstr ""
 
-#: includes/class-clipboard.php:73
+#: includes/class-clipboard.php:77
 msgid "Your text here"
 msgstr ""
 
-#: includes/class-clipboard.php:78
+#: includes/class-clipboard.php:82
 msgid "Enter the text or content you want users to copy when they click the button."
 msgstr ""
 
-#: includes/class-clipboard.php:94
+#: includes/class-clipboard.php:98
 msgid "Additional Content"
 msgstr ""
 
-#: includes/class-clipboard.php:102
+#: includes/class-clipboard.php:106
 msgid "Text"
-msgstr ""
-
-#: includes/class-clipboard.php:104
-msgid "Copied!"
 msgstr ""
 
 #: includes/class-clipboard.php:108
+msgid "Copied!"
+msgstr ""
+
+#: includes/class-clipboard.php:112
 msgid "This text appears after successfully copying the link and temporarily changes the button text."
 msgstr ""
 
-#: includes/class-clipboard.php:115
+#: includes/class-clipboard.php:119
 msgid "Background color"
 msgstr ""
 
-#: includes/class-clipboard.php:118
+#: includes/class-clipboard.php:122
 msgid "This color appears after successfully copying the link and temporarily changes the button background color. Default: #008000"
 msgstr ""
 
-#: includes/class-clipboard.php:125
+#: includes/class-clipboard.php:129
 msgid "Time"
 msgstr ""
 
-#: includes/class-clipboard.php:127
+#: includes/class-clipboard.php:131
 msgid "3000"
 msgstr ""
 
-#: includes/class-clipboard.php:128
+#: includes/class-clipboard.php:132
 msgid "After a specified time, the button resets to its default text and color. Default delay: 3 seconds (1 second = 1000 milliseconds)."
 msgstr ""
 
-#: includes/class-clipboard.php:143
+#: includes/class-clipboard.php:147
 msgid "Box"
 msgstr ""
 
-#: includes/class-clipboard.php:151
+#: includes/class-clipboard.php:155
 msgid "Padding"
 msgstr ""
 
-#: includes/class-clipboard.php:179
+#: includes/class-clipboard.php:183
 msgid "Border Radius"
 msgstr ""
 
-#: includes/class-clipboard.php:206
+#: includes/class-clipboard.php:210
 msgid "Text"
 msgstr ""
 
-#: includes/class-clipboard.php:214
+#: includes/class-clipboard.php:218
 msgid "Text Color"
-msgstr ""
-
-#: includes/class-clipboard.php:234
-msgid "Alignment"
 msgstr ""
 
 #: includes/class-clipboard.php:238
-msgid "Left"
+msgid "Alignment"
 msgstr ""
 
 #: includes/class-clipboard.php:242
-msgid "Center"
+msgid "Left"
 msgstr ""
 
 #: includes/class-clipboard.php:246
+msgid "Center"
+msgstr ""
+
+#: includes/class-clipboard.php:250
 msgid "Right"
 msgstr ""
 
-#: includes/class-clipboard.php:267
+#: includes/class-clipboard.php:271
 msgid "Button"
 msgstr ""
 
-#: includes/class-clipboard.php:275
+#: includes/class-clipboard.php:279
 msgid "Position"
 msgstr ""
 
-#: includes/class-clipboard.php:312
+#: includes/class-clipboard.php:316
 msgid "Normal"
 msgstr ""
 
-#: includes/class-clipboard.php:319
+#: includes/class-clipboard.php:323
 msgid "Text Color"
 msgstr ""
 
-#: includes/class-clipboard.php:358
+#: includes/class-clipboard.php:362
 msgid "Hover"
 msgstr ""
 
-#: includes/class-clipboard.php:365
+#: includes/class-clipboard.php:369
 msgid "Text Color"
 msgstr ""
 
-#: includes/class-clipboard.php:393
+#: includes/class-clipboard.php:397
 msgid "Border Color"
 msgstr ""
 
-#: includes/class-clipboard.php:425
+#: includes/class-clipboard.php:429
 msgid "Border Radius"
 msgstr ""
 
-#: includes/class-clipboard.php:445
+#: includes/class-clipboard.php:449
 msgid "Padding"
 msgstr ""

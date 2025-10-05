@@ -1,12 +1,13 @@
-=== Copy to Clipboard for Elementor ===
-Contributors: sunnyhossain
-Tags: elementor, clipboard, copy, button
+=== Copy to Clipboard Button for Elementor ===
+Contributors: webbang
+Donate link: https://sunnyhossain.com/donate/
+Tags: elementor widget, clipboard, copy text button, snippet copy button, copy to clipboard
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.0
 Stable tag: 1.0.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A simple Elementor widget that adds a Copy to Clipboard button with optional text.
 
@@ -16,7 +17,8 @@ The "Copy to Clipboard Button for Elementor" plugin adds a versatile and user-fr
 
 The widget is highly customizable, offering control over the button's appearance, including text, colors, and styles for both its normal and hover states. You can also display the text to be copied directly on the page, and customize its typography and alignment.
 
-Key Features:
+**Key Features:**
+
 *   **Customizable Button:** Change the button text, colors, and styles to match your site's design.
 *   **Dynamic Content:** Use Elementor's dynamic tags to populate the text to be copied.
 *   **Visible Text Area:** Optionally display the clipboard text on the page.
@@ -25,10 +27,14 @@ Key Features:
 
 == Installation ==
 
-1.  Upload the `copy-to-clipboard-elementor` folder to the `/wp-content/plugins/` directory.
+1.  Upload the `copy-to-clipboard-button-for-elementor` folder to the `/wp-content/plugins/` directory.
 2.  Activate the plugin through the 'Plugins' screen in WordPress.
 3.  Go to the Elementor editor and find the "Clipboard Button" widget in the widget panel.
 4.  Drag the widget to your desired section and start customizing.
+
+== Support ==
+
+For any help or support, please open an issue on our [GitHub repository](https://github.com/sunny-hossain/copy-to-clipboard-button-for-elementor/issues).
 
 == Frequently Asked Questions ==
 
@@ -55,3 +61,8 @@ Yes, you can toggle the "Show clipboard text" option in the widget's settings to
 
 = 1.0.0 =
 * Initial release.
+
+== Banner ==
+
+banner-772x250.png
+
